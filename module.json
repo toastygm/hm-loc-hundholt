@@ -22,7 +22,8 @@
       "entity": "Actor",
       "label": "Hundholt - Actors",
       "name": "actors",
-      "path": "packs/actors.db"
+      "path": "packs/actors.db",
+      "system": "hm3"
     },
     {
       "entity": "Scene",
