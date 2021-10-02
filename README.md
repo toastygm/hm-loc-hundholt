@@ -9,6 +9,46 @@ Although designed for use with the [HârnMaster](https://foundryvtt.com/packages
 system, this module is mostly system-agnostic.  Detailed descriptions of the actors
 has been provided in journal entries to facilitate conversion to other game systems.
 
+# Maps
+
+The original maps from this work have been used as inspiration, and new maps have been
+designed specifically to meet the requirements of the VTT environment.  The following
+maps are part of this module.
+
+## Hundholt Village
+
+Map of Hundholt Village, including the manor.
+
+<img src="assets/scenes/hundholt-village.webp" alt="Hundholt Village" width="600"/>
+
+## Rawyn Farm
+
+Ground level.
+
+<img src="assets/scenes/rawyn-farm-ground.webp" alt="Rawyn Farm Ground" width="600"/>
+
+Upper level.
+
+<img src="assets/scenes/rawyn-farm-upper.webp" alt="Rawyn Farm Upper" width="600"/>
+
+## Hundholt Manor
+
+Ground level.
+
+<img src="assets/scenes/hundholt-manor-ground.webp" alt="Hundholt Manor Ground" width="600"/>
+
+Upper level.
+
+<img src="assets/scenes/hundholt-manor-upper.webp" alt="Hundholt Manor Upper" width="600"/>
+
+Top level.
+
+<img src="assets/scenes/hundholt-manor-top.webp" alt="Hundholt Manor Top" width="600"/>
+
+Roof level.
+
+<img src="assets/scenes/hundholt-manor-roof.webp" alt="Hundholt Manor Roof" width="600"/>
+
 # Credits
 
 This module is made possible by the hard work of HârnWorld fans,
