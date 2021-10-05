@@ -71,4 +71,3 @@ a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Cr
 
 Some assets used to create the maps in this module are from
 [Forgotton Adventures](https://www.forgotten-adventures.net/).
-Illustrations by Richard Luschek; visit his Patreon page at https://www.patreon.com/LuschekII.
