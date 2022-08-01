@@ -1,53 +1,62 @@
 {
-  "name": "hm-loc-hundholt",
+  "id": "hm-loc-hundholt",
   "title": "Hundholt Manor",
   "description": "An important settlement of Fethael Hundred in the Kingdom of Kaldor, Hundholt Manor is a small village on the Silver Way",
-  "version": "1.0.2",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.9",
+  "version": "1.1.1",
   "bugs": "https://github.com/toastygm/hm-loc-hundholt/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
     {
       "name": "Toasty",
-      "discord": "toasty#8538"
+      "discord": "toasty#8538",
+      "flags": {}
     }
   ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
   "scripts": [
-    "./scripts/init.js"
+    "scripts/init.js"
   ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
+      }
+    ]
+  },
   "packs": [
     {
-      "entity": "Actor",
-      "label": "Hundholt - Actors",
+      "label": "Hundholt Actors",
       "name": "actors",
       "path": "packs/actors.db",
-      "system": "hm3"
+      "system": "hm3",
+      "type": "Actor",
+      "flags": {}
     },
     {
-      "entity": "Scene",
-      "label": "Hundholt - Scenes",
+      "label": "Hundholt Scenes",
       "name": "scenes",
-      "path": "packs/scenes.db"
+      "path": "packs/scenes.db",
+      "type": "Scene",
+      "flags": {}
     },
     {
-      "entity": "JournalEntry",
-      "label": "Hundholt - Journals",
+      "label": "Hundholt Journals",
       "name": "journals",
-      "path": "packs/journals.db"
-    }
-  ],
-  "dependencies": [
-    {
-      "name": "scene-packer",
-      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-      "type": "module"
+      "path": "packs/journals.db",
+      "type": "JournalEntry",
+      "flags": {}
     }
   ],
   "url": "https://github.com/toastygm/hm-loc-hundholt/",
   "manifest": "https://github.com/toastygm/hm-loc-hundholt/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-hundholt/releases/latest/download/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-hundholt/releases/download/v1.1.1/module.zip",
   "flags": {
     "allowBugReporter": true
   }
