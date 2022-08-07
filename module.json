@@ -3,7 +3,7 @@
   "name": "hm-loc-hundholt",
   "title": "Hundholt Manor",
   "description": "An important settlement of Fethael Hundred in the Kingdom of Kaldor, Hundholt Manor is a small village on the Silver Way",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "bugs": "https://github.com/toastygm/hm-loc-hundholt/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -54,7 +54,7 @@
   ],
   "url": "https://github.com/toastygm/hm-loc-hundholt/",
   "manifest": "https://github.com/toastygm/hm-loc-hundholt/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-hundholt/releases/download/v1.1.2/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-hundholt/releases/download/v1.1.3/module.zip",
   "flags": {
     "allowBugReporter": true
   }
