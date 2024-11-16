@@ -1,0 +1,130 @@
+{
+  "name": "Knights Foresters",
+  "pages": [
+    {
+      "name": "Arlin Cybrela",
+      "type": "text",
+      "text": {
+        "content": "<p>Arlin Cybrela is the 3rd son of a vassal of the Waydyles, holders of Nemel manor in Navintas Hundred. He hates the noise and mess that Milis’ dog Betsy makes. He is an acknowledged bastard; one of many that Sir Anetto Cybrela has sired. His clan head refuses to acknowledge him, however, and his support falls solely on his father’s purse. Arlin is armored as a Poor Knight, with a poor allowance. Shendal Karlirien is the 5th son of a vassal of the Pomada, holders of Ixena manor in Lynnfana Hundred. His mother ran off with a minstrel when he was 10. As a result, he is devoted to his father. His father’s brother is the clanhead. His uncle has no particular antipathy toward the young man but doesn’t really take the time to notice him either. Shendal is armored as a Poor Knight but receives an average allowance.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "lD0wDmCe0M9F8zVB",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bzchQj9ibtfhvanq.lD0wDmCe0M9F8zVB"
+    },
+    {
+      "name": "Ervaen Banadar",
+      "type": "text",
+      "text": {
+        "content": "<p>Ervaen Banadar is the 2nd son of a vassal of the Blaundar, holders of Kylelaw manor in Chyle Hundred. His parents are devout Laranians and would like nothing more than for Ervaen to join the Lady of Paladins. His father leads his clan. Ervaen is popular with his parents. He is armored as a Medium Knight, with a rich monthly stipend.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "6da2PuccaMjPJtYL",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bzchQj9ibtfhvanq.6da2PuccaMjPJtYL"
+    },
+    {
+      "name": "Kevan Losteriel",
+      "type": "text",
+      "text": {
+        "content": "<p>Kevan Losteriel is the 3rd son of a vassal of the Frykals, holders of Bonaven manor in Navintas Hundred. Kevan fancies himself a musician and a poet. His father is ecstatic that he has finally done something that he (the father) can tell his friends about. His clan head is his father’s cousin. Kevan is popular with the clan head, who openly hopes that Kevan’s contact with the Indamas will yield benefits for the entire clan. Kevan is armored as a Medium Knight, with an average monthly allowance.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "63wWn1Y5YJWLdIVu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bzchQj9ibtfhvanq.63wWn1Y5YJWLdIVu"
+    },
+    {
+      "name": "Milis Arlain",
+      "type": "text",
+      "text": {
+        "content": "<p>Milis Arlain is the 4th son of a vassal of the Tubaths, holders of Lyafen manor in Dobraine Hundred. He was fostered to the Tubaths at an early age after his father disappeared on a mission along Noron’s Way. His clanhead, a distant relation of his missing father, is still distraught over the father’s disappearance. Milis is armored as a Poor Knight, with an average stipend. He keeps a hunting dog named \"Betsy\"—the source of much annoyance in the knights’ quarters.</p>",
+        "format": 1
+      },
+      "_id": "ig2fQubHkf35E9Yq",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!bzchQj9ibtfhvanq.ig2fQubHkf35E9Yq"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204496055,
+    "modifiedTime": 1659204496055,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "bzchQj9ibtfhvanq",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!bzchQj9ibtfhvanq"
+}

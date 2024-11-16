@@ -1,0 +1,157 @@
+{
+  "name": "Manor Household",
+  "pages": [
+    {
+      "name": "Lady Balsha Indama",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Balsha Indama, nee Valador, is from Zutlin in Vemionshire Her marriage to Sir Haradoc was the result of a calculated political move. The climate of their first year and a half of their marriage was best described as “arctic.” The kindest remark Lady Balsha had made about her husband was, “at least he doesn’t snore.”</p>\n<p>She has long felt more attracted to other women than to men. It was during one of Sir Haradoc’s trips to Getha to see his father that she happened to walk past the Halean Temple. She caught sight of Mistress Jundael, found herself drawn into the Chamber of Selina, and was soon drawn into one of the Corathar’s chambers with the beautiful priestess. At the time, she hid her interests, worrying that her husband’s family would disapprove.</p>\n<p>Balsha’s situation changed one day when her husband caught her emerging from the temple. Rather than beat her or send her back to her family in disgrace, Haradoc drew her into his confidence. Now, they often share the “seamstresses” [D7].</p>\n<p>Balsha makes excuses to visit the temple in Getha and learn more of the Golden Handmaiden. Balsha has become a devoted, if hesitant, devotee of Halea. The Aramia (High Priestess) is eager to use this situation for the temple’s benefit. While Mistress Dybrine is patient, she is not above resorting to blackmail to gain information about the Baron’s family matters.</p>",
+        "format": 1
+      },
+      "_id": "JtcVqpFY0Nuu5Wtz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!e4m4EpqBscYNSdWK.JtcVqpFY0Nuu5Wtz"
+    },
+    {
+      "name": "Lady Balsha's Maid Caras Urdel",
+      "type": "text",
+      "text": {
+        "content": "<p>Lady Balsha’s maid, Caras Urdel, is the Senior Provost’s [D3] niece. Her uncle used his influence with Sir Haradoc to get her this job even though she is young (15) and inexperienced. Caras’ family despairs that they will not be able to marry this plain, stocky girl off and are hoping that one of the retired provosts or a passing tradesman will stumble and fall into her bed. Liranal [D4] despairs for another reason; the girl is lazy and, although she is very intelligent, is constantly being reprimanded by Lady Balsha for one fault or another.</p>",
+        "format": 1
+      },
+      "_id": "xfKT3oa5nofgvM9y",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!e4m4EpqBscYNSdWK.xfKT3oa5nofgvM9y"
+    },
+    {
+      "name": "Sir Haradoc Indama",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Haradoc Indama is an ambitious and cunning man. He works hard to prove to his father that he is worthy of higher office, hoping that he might have the Sheriff’s place when his brother Harapa becomes the Baron. Sir Haradoc’s only weakness is women.</p>\n<p>The Urdels, and most of the yeomanry, call Haradoc “Hardass” out of his earshot. This is a complement, rather than an insult, as Sir Haradoc is perceived to be firm but fair.</p>",
+        "format": 1
+      },
+      "_id": "M8LuCJQ9Vf3R2e86",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!e4m4EpqBscYNSdWK.M8LuCJQ9Vf3R2e86"
+    },
+    {
+      "name": "Squire Arith Ernisch",
+      "type": "text",
+      "text": {
+        "content": "<p>Arith Ernisch has been Sir Haradoc’s squire for the past four years. His bright disposition and quick wit have made him popular throughout the manor. He is totally loyal and is quick to avenge any snide remarks made about the Bailiff or Lady Balsha. Arith is not, however, very bright and Sir Haradoc worries that the lad will ruin his family’s manor when it comes time for him to inherit.</p>",
+        "format": 1
+      },
+      "_id": "GF40pts1EvtZkMVT",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!e4m4EpqBscYNSdWK.GF40pts1EvtZkMVT"
+    },
+    {
+      "name": "Valet Gaslen Ailt",
+      "type": "text",
+      "text": {
+        "content": "<p>Gaslen is a cunning, brilliant young man who is his master’s servant in everyway. What Gaslen lacks, however, are scruples. Open to bribes, especially cash, he doesn’t hesitate to “pick up little something extra” whenever he can.</p>",
+        "format": 1
+      },
+      "_id": "JsjFxSNeKy5CeO6K",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 350000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!e4m4EpqBscYNSdWK.JsjFxSNeKy5CeO6K"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204496056,
+    "modifiedTime": 1659204496056,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "e4m4EpqBscYNSdWK",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!e4m4EpqBscYNSdWK"
+}

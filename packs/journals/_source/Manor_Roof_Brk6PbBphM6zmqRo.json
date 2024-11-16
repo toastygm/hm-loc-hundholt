@@ -1,0 +1,49 @@
+{
+  "name": "Manor Roof",
+  "pages": [
+    {
+      "name": "[C4] Watch Post",
+      "type": "text",
+      "text": {
+        "content": "<p>Watch post is rarely manned but a sentry standing here can see the signal fires of both Getha and Blixth on a clear night.</p>",
+        "format": 1
+      },
+      "_id": "t7Qk8DBTvcpbHrII",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Brk6PbBphM6zmqRo.t7Qk8DBTvcpbHrII"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204496029,
+    "modifiedTime": 1659204496029,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "Brk6PbBphM6zmqRo",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!Brk6PbBphM6zmqRo"
+}

@@ -1,0 +1,1346 @@
+{
+  "_id": "zf3s3wTMGZ6dcQVw",
+  "name": "Hundholt Village",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/zf3s3wTMGZ6dcQVw-thumb.webp",
+  "width": 9271,
+  "height": 13200,
+  "padding": 0.1,
+  "initial": {},
+  "backgroundColor": "#999999",
+  "grid": {
+    "size": 100,
+    "type": 0,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 20,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": false,
+  "fogReset": 1658088779391,
+  "globalLight": true,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "_id": "h4utwLq3uejWkSjZ",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 4450,
+      "y": 9300,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "1",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/1723fdc9_1.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "JfVqEPNGTYQhlwLm",
+      "text": "[1] Villein Jarin Loyril",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.h4utwLq3uejWkSjZ"
+    },
+    {
+      "_id": "hkUUF2Y1onMcy3ID",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 3900,
+      "y": 8950,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "2",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/80df0f52_2.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "plrPvjXYUiugESYi",
+      "text": "[2] Villein Craen Tolonan",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.hkUUF2Y1onMcy3ID"
+    },
+    {
+      "_id": "XieoxqKTGNJ3IUWg",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 3900,
+      "y": 9250,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "3",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/a6961337_3.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "2JZujHYKBvwnWheQ",
+      "text": "[3] Villein Lunda Awensel",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.XieoxqKTGNJ3IUWg"
+    },
+    {
+      "_id": "GsHZEQAt0oMhgQ2e",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 3850,
+      "y": 9550,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "4",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/9106ca90_4.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "6lBTsYNIgRBzwDug",
+      "text": "[4] Villein (Beadle) Hobril Nelt",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.GsHZEQAt0oMhgQ2e"
+    },
+    {
+      "_id": "HjELkEUGBfRUaxAC",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 3750,
+      "y": 9850,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "5",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/aa2e982d_5.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "01ZvyUJVuPnxkeiy",
+      "text": "[5] Villein Laed Tyun",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.HjELkEUGBfRUaxAC"
+    },
+    {
+      "_id": "N33EDM3k9lY2OHR3",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 3750,
+      "y": 10150,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "6",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/c4d37f66_6.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "q1Ie4TVpkfpR6MKz",
+      "text": "[6] Half-Villein (Reeve) Kered Churil",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.N33EDM3k9lY2OHR3"
+    },
+    {
+      "_id": "ndYSQHbZaD5TFL4x",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 3750,
+      "y": 10450,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "7",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/e2fb413b_7.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "9DoQkPhdj7NNGG0S",
+      "text": "[7] Half-Villein Durris Tyun",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.ndYSQHbZaD5TFL4x"
+    },
+    {
+      "_id": "VrNel8jP5TGNCiLr",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 3750,
+      "y": 10750,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "8",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/65c7a374_8.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "hPz0xJpwDiA1pM0h",
+      "text": "[8] Half-Villein Ereda Tyun",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.VrNel8jP5TGNCiLr"
+    },
+    {
+      "_id": "p65yaLelgXtDxF5v",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 4050,
+      "y": 12150,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "9",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/f67e00a1_9.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "KUd46Vb5MScdec93",
+      "text": "[9] Metalsmith Tambrin Darion",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.p65yaLelgXtDxF5v"
+    },
+    {
+      "_id": "55TAHuDpASb99R7h",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 3650,
+      "y": 11050,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "10",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/ddd4e17_10.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "nCdvTqiV8jkkBNG7",
+      "text": "[10] Yeoman (Longbow) Synë Urdel",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.55TAHuDpASb99R7h"
+    },
+    {
+      "_id": "42q5QirfcnTubpfv",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 3700,
+      "y": 11450,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "11",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/789d24a4_11.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "6vk6k2BBMkcAkmGq",
+      "text": "[11] Yeoman (Clerk) Dyrdal Urdel",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.42q5QirfcnTubpfv"
+    },
+    {
+      "_id": "FVekFwa2MqSRYZXv",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 3650,
+      "y": 11750,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "12",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/2806bd91_12.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "wjESR71VpdWDSVZ1",
+      "text": "[12] Yeoman Bilan Urdel",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.FVekFwa2MqSRYZXv"
+    },
+    {
+      "_id": "QZEbDpqptES1jvJ3",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 4450,
+      "y": 11650,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "13",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/c8052db6_13.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "pXdcvtxUrLF0jYnd",
+      "text": "[13] Litigant Jorisi Ailt",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.QZEbDpqptES1jvJ3"
+    },
+    {
+      "_id": "k2VdFhD21C2IrWbw",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 4550,
+      "y": 11950,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "14",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/11b8b823_14.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "X14Bu789qGBPASYE",
+      "text": "[14] The Broken Wheel Inn",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.k2VdFhD21C2IrWbw"
+    },
+    {
+      "_id": "a0BjSYwy4X4WVXb7",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 5550,
+      "y": 10650,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "15",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/e62088a0_15.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "XO4Of7WuhZvoF6Ek",
+      "text": "[15] Villein Pesera Arsarl",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.a0BjSYwy4X4WVXb7"
+    },
+    {
+      "_id": "NlLhY2ZGlBgFZV31",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 5750,
+      "y": 10250,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "17",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/8b1d0332_17.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "GolmcD2XwBNSHBMn",
+      "text": "[17] Cottar Tirag Arsarl",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.NlLhY2ZGlBgFZV31"
+    },
+    {
+      "_id": "xDmhuQ413DjtESk5",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 5650,
+      "y": 11950,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "16",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/2a2ec7d_16.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "8tDW8bosrXxOYPP4",
+      "text": "[16] Villein (Woodward) Giran Churil",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.xDmhuQ413DjtESk5"
+    },
+    {
+      "_id": "ifWzBemrKtQJqu4w",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 5850,
+      "y": 11550,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "18",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/154912ff_18.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Bb7vAUxP27i13AJG",
+      "text": "[18] Half-Villein Undil Drelin",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.ifWzBemrKtQJqu4w"
+    },
+    {
+      "_id": "pEY7R8EQsbh6k0iD",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 6150,
+      "y": 11350,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "20",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/f5ac1cdc_20.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "CBMnne3gX4SlpHvX",
+      "text": "[20] Cottar Sherin Awensel",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.pEY7R8EQsbh6k0iD"
+    },
+    {
+      "_id": "uZlDx71J1S5cz423",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 5750,
+      "y": 9950,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "19",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/7b39c28c_19.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "pHWtxwbxu9cBthBw",
+      "text": "[19] Cottar Yorag Krabel",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.uZlDx71J1S5cz423"
+    },
+    {
+      "_id": "pHNeCtdzjtcJXNZE",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 6250,
+      "y": 11050,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "21",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/c245857f_21.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "O8qocKIk5eWubivR",
+      "text": "[21] Cottar Medil Krabel",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.pHNeCtdzjtcJXNZE"
+    },
+    {
+      "_id": "dBA7MtCpXKI3vHe6",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 5850,
+      "y": 9650,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "22",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/9c57615a_22.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "54ppB8DlqVnF15nY",
+      "text": "[22] Cottar (Herder) Kaenyn Churil",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.dBA7MtCpXKI3vHe6"
+    },
+    {
+      "_id": "7W8yptQyMSphVQ1Y",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 6450,
+      "y": 10450,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "23",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/c8f970fd_23.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "cFwGoqaiT0SPJrRz",
+      "text": "[23] Cottar Stisan Loyril",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.7W8yptQyMSphVQ1Y"
+    },
+    {
+      "_id": "zvZKysCTVxtNTugV",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 6450,
+      "y": 9950,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "25",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/ff79fb0b_25.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ncNh6zV9MGuWROuR",
+      "text": "[25] Cottar Turn Tolonan",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.zvZKysCTVxtNTugV"
+    },
+    {
+      "_id": "Dz6T0qDmYyJPcJEc",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 6450,
+      "y": 9600,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "26",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/1aea936_26.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "sCK6IyW1MMQ0eKt8",
+      "text": "[26] Cottar Irdar Churil",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.Dz6T0qDmYyJPcJEc"
+    },
+    {
+      "_id": "ocWBH9lvyAM6GOco",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 5950,
+      "y": 9250,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "24",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/1c8e8c58_24.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "0DflekKmVlKO9TX3",
+      "text": "[24] Cottar Beldis Oralis",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.ocWBH9lvyAM6GOco"
+    },
+    {
+      "_id": "ILLwst9mnJQPKTMn",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 6050,
+      "y": 8950,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "27",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/c0fb37a9_27.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "LoDvlAEx9P3ApIcz",
+      "text": "[27] Cottar Garal Krandar",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.ILLwst9mnJQPKTMn"
+    },
+    {
+      "_id": "PPj62wc8bnIQ6yp0",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 5850,
+      "y": 8450,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "28",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/cba0b224_28.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "mmrfaFv5aKo9RVPE",
+      "text": "[28] Cottar Tarast Churil",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.PPj62wc8bnIQ6yp0"
+    },
+    {
+      "_id": "5eh2vPVUFc1vpfBN",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 5950,
+      "y": 8150,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "29",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/7a5851c7_29.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "FSAjTk7DfRWKZRaS",
+      "text": "[29] Half-Villein Thargen Asaka",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.5eh2vPVUFc1vpfBN"
+    },
+    {
+      "_id": "QySIfuJwSBry3ROI",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 6100,
+      "y": 7650,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "30",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/8751bc29_30.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "4du7Kll5V3GEY1mp",
+      "text": "[30] Cottar Everard Tyun",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.QySIfuJwSBry3ROI"
+    },
+    {
+      "_id": "0zhLUDa2WAmFptp0",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 8350,
+      "y": 6650,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "31",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/d600dcda_31.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "HbLx3YcBFx0NOnhx",
+      "text": "[31] Miller Varan Etine",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.0zhLUDa2WAmFptp0"
+    },
+    {
+      "_id": "dK7BKyXslqEMeciq",
+      "entryId": "OEcadxNrg6tgJLOx",
+      "x": 9650,
+      "y": 8050,
+      "iconSize": 100,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "32",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/889c09ff_32.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "dIuDCW4aSDDvwFd0",
+      "text": "[32] Ranwyn Farm (Forester Royal Oldial Urdel)",
+      "global": false,
+      "_key": "!scenes.notes!zf3s3wTMGZ6dcQVw.dK7BKyXslqEMeciq"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [
+    {
+      "_id": "GKUNPVQCG9cu3YKo",
+      "c": [
+        1100,
+        2400,
+        1100,
+        14500
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!zf3s3wTMGZ6dcQVw.GKUNPVQCG9cu3YKo"
+    },
+    {
+      "_id": "GPZFg4TELZjmwZXS",
+      "c": [
+        1100,
+        14500,
+        10100,
+        14500
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!zf3s3wTMGZ6dcQVw.GPZFg4TELZjmwZXS"
+    },
+    {
+      "_id": "i4PI7dRWuKRqOJgW",
+      "c": [
+        10100,
+        14500,
+        10100,
+        2400
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!zf3s3wTMGZ6dcQVw.i4PI7dRWuKRqOJgW"
+    },
+    {
+      "_id": "IqDoKKY04N59jYf9",
+      "c": [
+        10100,
+        2400,
+        1100,
+        2400
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!zf3s3wTMGZ6dcQVw.IqDoKKY04N59jYf9"
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-loc-hundholt.scenes.zf3s3wTMGZ6dcQVw"
+    },
+    "hm-loc-hundholt": {
+      "imported": "1.0.2"
+    },
+    "scene-packer": {
+      "source-module": "hm-loc-hundholt",
+      "packed-with-version": "2.3.13",
+      "sourceId": "Scene.aFqVmP9vGTdPdFRQ",
+      "hash": "9e5b418d45b0c745ba4adf894ff128645a933b98"
+    },
+    "cf": {
+      "id": "temp_90y70oguc3",
+      "path": "Hundholt#/CF_SEP/Village Map",
+      "color": "#000000"
+    }
+  },
+  "background": {
+    "src": "modules/hm-loc-hundholt/assets/scenes/hundholt-village.webp",
+    "offsetX": 39,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204519326,
+    "modifiedTime": 1659204519326,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!zf3s3wTMGZ6dcQVw"
+}

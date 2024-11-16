@@ -1,0 +1,888 @@
+{
+  "name": "Village Residents",
+  "pages": [
+    {
+      "name": "[1] Villein Jarin Loyril",
+      "type": "text",
+      "text": {
+        "content": "<p>Jarin and Arwin are middle aged peasants. They are happy and healthy, with four strapping children. Jarin’s eldest son Wynan is getting married to Brendyn Asaka (@UUID[JournalEntry.OEcadxNrg6tgJLOx.JournalEntryPage.FSAjTk7DfRWKZRaS]{[29] Half-Villein Thargen Asaka}). Jarin has asked the Bailiff to grant Wynan land of his own. Jarin’s daughter, Ranlelë, is looking forward to her betrothal as well. She is to marry Largo Tyun (@UUID[JournalEntry.OEcadxNrg6tgJLOx.JournalEntryPage.9DoQkPhdj7NNGG0S]{[7] Half-Villein Durris Tyun}) later this year.</p>",
+        "format": 1
+      },
+      "_id": "JfVqEPNGTYQhlwLm",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.JfVqEPNGTYQhlwLm"
+    },
+    {
+      "name": "[2] Villein Craen Tolonan",
+      "type": "text",
+      "text": {
+        "content": "<p>Craen is loud and crass. His sense of humor is lewd and he isn’t afraid to offend anyone. When his relatives visit from Wuver, his cottage rocks with their raucous behavior.</p>",
+        "format": 1
+      },
+      "_id": "plrPvjXYUiugESYi",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.plrPvjXYUiugESYi"
+    },
+    {
+      "name": "[3] Villein Lunda Awensel",
+      "type": "text",
+      "text": {
+        "content": "<p>Lunda is an outspokenly evangelical Peonian. She frequently preaches to her large family with exhortations of pious sacrifice and humility. She often leads prayers in the fields when the family takes work breaks. Her husband and five children are unquestioningly loyal to her. Although she is loud and overbearing in her piety, she is very popular in the village.</p>",
+        "format": 1
+      },
+      "_id": "2JZujHYKBvwnWheQ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.2JZujHYKBvwnWheQ"
+    },
+    {
+      "name": "[4] Villein (Beadle) Hobril Nelt",
+      "type": "text",
+      "text": {
+        "content": "<p>Hobril waddles around the village looking for things that are out of place. He dislikes Sir Haradoc and the way the Reeve is always licking the Bailiff’s boots. He wishes that the Bailiff could be a little more easy-going. He has managed to get all five of his growing children jobs with the Herder (@UUID[JournalEntry.OEcadxNrg6tgJLOx.JournalEntryPage.54ppB8DlqVnF15nY]{[22] Cottar (Herder) Kaenyn Churil}( or the Woodward (@UUID[JournalEntry.OEcadxNrg6tgJLOx.JournalEntryPage.8tDW8bosrXxOYPP4]{[16] Villein (Woodward) Giran Churil}), added income that keeps the family comfortable. Always ready to help a friend, Hobril can be bribed at a surprisingly low price.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "6lBTsYNIgRBzwDug",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.6lBTsYNIgRBzwDug"
+    },
+    {
+      "name": "[5] Villein Laed Tyun",
+      "type": "text",
+      "text": {
+        "content": "<p>Laed is the tallest woman in the Hundred, standing a full six feet, three inches in her bare feet. Her husband Sholstiben is almost as tall (6’ 1”) and always jokes about “looking up to his wife.” Their four children share their parents’ build and are growing into young giants.</p>",
+        "format": 1
+      },
+      "_id": "01ZvyUJVuPnxkeiy",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.01ZvyUJVuPnxkeiy"
+    },
+    {
+      "name": "[6] Half-Villein (Reeve) Kered Churil",
+      "type": "text",
+      "text": {
+        "content": "<p>Kered is a lucky man. He is too self-absorbed to see his own flaws and too insecure to admit that he might ever be wrong. Because of his lack of foresight, the villagers often find that they are lacking seed or are delinquent in their labor days because Kered has miscounted or gotten confused. Because he is also lazy, he is always quick to find a scapegoat and somehow escape accepting any blame. The villagers, especially the Urdel family, hate him.</p>",
+        "format": 1
+      },
+      "_id": "q1Ie4TVpkfpR6MKz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.q1Ie4TVpkfpR6MKz"
+    },
+    {
+      "name": "[7] Half-Villein Durris Tyun",
+      "type": "text",
+      "text": {
+        "content": "<p>One of the most popular people in the village, Durris is very happy with his life. Generous to a fault, he has set a good example for his two children and his loving wife.</p>",
+        "format": 1
+      },
+      "_id": "9DoQkPhdj7NNGG0S",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.9DoQkPhdj7NNGG0S"
+    },
+    {
+      "name": "[8] Half-Villein Ereda Tyun",
+      "type": "text",
+      "text": {
+        "content": "<p>Ereda and her husband, Melian, are happy and well off. Their 7-year-old daughter, Ebra, is spoiled but good hearted. Ereda wishes they could have more children but Peoni hasn’t blessed them with any more offspring.</p>",
+        "format": 1
+      },
+      "_id": "hPz0xJpwDiA1pM0h",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.hPz0xJpwDiA1pM0h"
+    },
+    {
+      "name": "[9] Metalsmith Tambrin Darion",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 2 <strong>Quality:</strong> ★★★ <strong>Prices:</strong> Avg</p>\n<p>Tambrin is an exceptionally angry and obstinate man. A mule stepped on his foot a month ago and crushed some of the bones. As a result he is in constant pain and is even more cross than he was before the accident. He quarrels with every ostler that comes to work on the manor’s animals. He is so irascible that he is often unfavorably compared to the mules in terms of charm and wit.</p>",
+        "format": 1
+      },
+      "_id": "KUd46Vb5MScdec93",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.KUd46Vb5MScdec93"
+    },
+    {
+      "name": "[10] Yeoman (Longbow) Synë Urdel",
+      "type": "text",
+      "text": {
+        "content": "<p>Synë is a stunningly handsome and virile man but, after six children, he is ready to throw his wife out of his bed. She would have been gone already but he needs her help with the farm. A member of the yeomanry, Synë takes his responsibility to practice with a longbow very seriously. He has placed in the top five in the Getha Fair’s archery contest in each of the last four years, making him a local celebrity.</p>",
+        "format": 1
+      },
+      "_id": "nCdvTqiV8jkkBNG7",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.nCdvTqiV8jkkBNG7"
+    },
+    {
+      "name": "[11] Yeoman (Clerk) Dyrdal Urdel",
+      "type": "text",
+      "text": {
+        "content": "<p>Dyrdal is the clerk of the Hundred Moot. He is 66 years old and is a cheerful man. Too old to farm any longer, his son Brandir works his lands while Dyrdal works in the tower on the Hundred’s records. Most of the guard call him Grandad, as he is the grandfather, great uncle or of some relation to four of the ten guardsmen. He served Baron Lors Indama for thirty years before retiring to Hundholt. When his bad back interfered with farm work, he asked Sir Medrik Indama, the previous Bailiff, to allow him to work as a clerk for day wages.</p>\n<p>Dyrdal is paid a scribe’s daily wage when court is in session and half a day’s pay for work he does on the Hundred’s records at other times.</p>",
+        "format": 1
+      },
+      "_id": "6vk6k2BBMkcAkmGq",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.6vk6k2BBMkcAkmGq"
+    },
+    {
+      "name": "[12] Yeoman Bilan Urdel",
+      "type": "text",
+      "text": {
+        "content": "<p>Bilan is a heavily built, quiet woman. A loner by nature, she works her family’s lands by herself. Her husband, Arolf, is often away from home collecting falcon eggs in the mountains. He sells the eggs to the nobles so that they can raise the birds for sport.</p>",
+        "format": 1
+      },
+      "_id": "wjESR71VpdWDSVZ1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.wjESR71VpdWDSVZ1"
+    },
+    {
+      "name": "[13] Litigant Jorisi Ailt",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> Paper and Quill</p>\n<p><strong>Size:</strong> 6 <strong>Quality:</strong> ★★★ <strong>Prices:</strong> Avg</p>\n<p>Jorisi is indispensable to the legal system in the Hundred. She specializes in writing writs, the documents that are required to initiate legal proceedings by the Hundred and Shire Moots. She is very busy, despite having three journeymen and two apprentices to help with her workload. She employs some of the Urdels as scribes for routine matters but works on important documents herself. She would love to hire a junior partner but hasn’t been able to find a person willing to stay in Hundholt for what she is willing to pay. This tall, heavy-set woman seems to constantly sweating, even in the dead of winter.</p>",
+        "format": 1
+      },
+      "_id": "pXdcvtxUrLF0jYnd",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.pXdcvtxUrLF0jYnd"
+    },
+    {
+      "name": "[14] The Broken Wheel Inn",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Sign:</strong> A Broken Wheel</p>\n<p><strong>Innkeeper: </strong>Medaen Darion</p>\n<p><strong>Size:</strong> 2 <strong>Quality:</strong> ★★★ <strong>Prices:</strong> Avg</p>\n<p>Master Medaen Darion runs the Broken Wheel. Medaen is bonded to Sir Haradoc and, by the terms of his contract, turns over 60% of any profits to the Bailiff. For the last three years, Medaen’s creative accounting has slowly increased “expenses” without drawing any comment from Sir Haradoc. The stress brought on by the deceit has given Medaen a bleeding stomach ulcer. He often thinks about giving up the franchise but doesn’t know where he could go that he would be safe from the Bailiff’s anger.</p>\n<p>The Broken Wheel has two rooms to let but these are rarely full at the same time. The kitchen is the busiest part of the inn. Many of the village’s freemen and most visitors to the village eat their midday meal in the taproom. Most of the inn’s food is salty, to help generate business at the bar. Medaen, for all of his financial duplicity, is an excellent brewer. People from Jenkald and Getha seek his beers and ciders.</p>\n<table border=\"1\"><caption>Rooms</caption>\n<thead>\n<tr>\n<th style=\"width:10em\">Item</th>\n<th style=\"width:4em\">Price</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Common Room</td>\n<td>1d/person</td>\n</tr>\n<tr>\n<td>Small Private Room (max 2 persons)</td>\n<td>6d/person</td>\n</tr>\n</tbody>\n</table>\n<table border=\"1\"><caption>Food</caption>\n<thead>\n<tr>\n<th style=\"width:20em\">Item</th>\n<th style=\"width:4em\">Price</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Pickled greens</td>\n<td>2f</td>\n</tr>\n<tr>\n<td>Pottage</td>\n<td>4f</td>\n</tr>\n<tr>\n<td>Pork or mutton stew</td>\n<td>1d</td>\n</tr>\n<tr>\n<td>Pork or mutton pie</td>\n<td>2d</td>\n</tr>\n<tr>\n<td>Roast Goat</td>\n<td>3d</td>\n</tr>\n<tr>\n<td>Roast pork or mutton</td>\n<td>5d</td>\n</tr>\n<tr>\n<td>Roast goose in brandy sauce</td>\n<td>18d</td>\n</tr>\n</tbody>\n</table>\n<table border=\"1\"><caption>Drinks</caption>\n<thead>\n<tr>\n<th style=\"width:20em\">Item</th>\n<th style=\"width:4em\">Price</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Beer</td>\n<td>1f/pint</td>\n</tr>\n<tr>\n<td>Cider</td>\n<td>1f/pint</td>\n</tr>\n<tr>\n<td>Ominspit</td>\n<td>2f/cup</td>\n</tr>\n<tr>\n<td>Heleryn (apple brandy)</td>\n<td>5f/cup</td>\n</tr>\n<tr>\n<td>Leleryn (plum brandy)</td>\n<td>6f/cup</td>\n</tr>\n<tr>\n<td>Elmeze wine</td>\n<td>9f/cup</td>\n</tr>\n</tbody>\n</table>",
+        "format": 1
+      },
+      "_id": "X14Bu789qGBPASYE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.X14Bu789qGBPASYE"
+    },
+    {
+      "name": "[15] Villein Pesera Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>Pesera is a cheerful woman. Although she is only thirty years old, she is already married to her fourth husband. The manor house’s cook tells everyone about Pesera’s bad luck but, in truth, this small woman has perfected the art of murdering her husbands so that she can keep their lands and chattels without the “inconvenience” of being married. Her first husband died in a hunting accident, the next fell ill after drinking too much, and the third died of an infected wound. She is now the wealthiest woman in the village. Her latest husband, Urand, is becoming inconvenient and Pesera has started thinking of an innovative way for him to pass on to Valon.</p>",
+        "format": 1
+      },
+      "_id": "XO4Of7WuhZvoF6Ek",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.XO4Of7WuhZvoF6Ek"
+    },
+    {
+      "name": "[16] Villein (Woodward) Giran Churil",
+      "type": "text",
+      "text": {
+        "content": "<p>This tall, broad shouldered woman is the manor’s woodward. She enjoys her job and prefers walking in the woods to tending her fields, much to the annoyance of her husband. She often visits the small village of Wuven, even though this settlement is technically under the jurisdiction of Sir Sedris Indama, Bailiff of Blixth.</p>",
+        "format": 1
+      },
+      "_id": "8tDW8bosrXxOYPP4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.8tDW8bosrXxOYPP4"
+    },
+    {
+      "name": "[17] Cottar Tirag Arsarl",
+      "type": "text",
+      "text": {
+        "content": "<p>Tirag is a skinny, flighty man. A popular performer at local fairs, he is a better singer and juggler than he is a farmer.</p>",
+        "format": 1
+      },
+      "_id": "GolmcD2XwBNSHBMn",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.GolmcD2XwBNSHBMn"
+    },
+    {
+      "name": "[18] Half-Villein Undil Drelin",
+      "type": "text",
+      "text": {
+        "content": "<p>Undil is a man with a secret. He came to the village several years ago, claiming to be the long lost heir of a landholder who had recently passed away. Although many were skeptical, he eased his way into the community with quiet gifts and good humor and has been accepted.</p>\n<p>Undil is actually a bandit seeking a newer and safer life. He rode with a particularly vicious band of cutthroats in Oselshire for years before deciding that a life change was in order. With his lover, a former prostitute, riding behind him, he stole some of the gang’s loot and rode north. A passing traveler told him of a recent death in Hundholt and Undil, a consummate liar, slid easily into the role of prodigal heir.</p>\n<p>Undil and his woman, Myril, are content in Hundholt and are starting a family this spring. He is more afraid of his former colleagues finding him than anything else. Undil feels that he is safe from prosecution in Nephshire, but he is cautious nonetheless.</p>",
+        "format": 1
+      },
+      "_id": "Bb7vAUxP27i13AJG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.Bb7vAUxP27i13AJG"
+    },
+    {
+      "name": "[19] Cottar Yorag Krabel",
+      "type": "text",
+      "text": {
+        "content": "<p>Yorag’s beautiful wife, Cylena, has attracted the notice of several of the Warders. So far the Provosts have discouraged their men from extorting women to become their mistresses but no one knows how long they will be able to maintain control over the rambunctious troops.</p>",
+        "format": 1
+      },
+      "_id": "pHWtxwbxu9cBthBw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.pHWtxwbxu9cBthBw"
+    },
+    {
+      "name": "[20] Cottar Sherin Awensel",
+      "type": "text",
+      "text": {
+        "content": "<p>Sherin is a cheerful old man. As he got too old to work his fields, he arranged for his daughter Lunda and her husband to take them over. He spends his days working in the manor house’s kitchens, finding the cook’s company far superior to that of his shrewish and slightly loony wife.</p>",
+        "format": 1
+      },
+      "_id": "CBMnne3gX4SlpHvX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.CBMnne3gX4SlpHvX"
+    },
+    {
+      "name": "[21] Cottar Medil Krabel",
+      "type": "text",
+      "text": {
+        "content": "<p>Six months ago, Medil was flogged for poaching in the Bailiff’s woods. He protested his innocence but was convicted in the hall moot. Medil harbors a grudge and is consumed with thoughts of revenge. He is now suicidal. His wife fears that he will attack Sir Haradoc, leaving her and their five children to face the consequences alone.</p>",
+        "format": 1
+      },
+      "_id": "O8qocKIk5eWubivR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.O8qocKIk5eWubivR"
+    },
+    {
+      "name": "[22] Cottar (Herder) Kaenyn Churil",
+      "type": "text",
+      "text": {
+        "content": "<p>Fortune has always smiled on “Lucky” Kaenyn. He enjoys his work, has a beautiful wife and a growing farm. His cousin in Lethyl is trying to convince a widowed woman (Shurdin Churil) to marry his boy, Roldin (age 15) so that her lands stay in the Churil clan. He plans to ask the Bailiff for permission to travel to Lethyl to discuss the marriage contract this spring.</p>",
+        "format": 1
+      },
+      "_id": "54ppB8DlqVnF15nY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2150000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.54ppB8DlqVnF15nY"
+    },
+    {
+      "name": "[23] Cottar Stisan Loyril",
+      "type": "text",
+      "text": {
+        "content": "<p>Stisan is a fat schemer. He dislikes farming, as it makes him sunburnt, so he is usually found loitering around the manor house looking for work or hiding from his wife, Griselda. She is a harridan who has been put into the stocks on several times for publicly beating her husband.</p>",
+        "format": 1
+      },
+      "_id": "cFwGoqaiT0SPJrRz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.cFwGoqaiT0SPJrRz"
+    },
+    {
+      "name": "[24] Cottar Beldis Oralis",
+      "type": "text",
+      "text": {
+        "content": "<p>Beldis rarely speaks to her neighbors, preferring the company of the Miller and his wife. The other serfs think that she is “putting on airs” but she doesn’t care. She has been known to complain to the beadle when she thinks that one of her neighbors has failed to perform their allotted labor days or shirks their work. This trait has made her very unpopular and, if anything, increased her isolation from the other serf families.</p>",
+        "format": 1
+      },
+      "_id": "0DflekKmVlKO9TX3",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.0DflekKmVlKO9TX3"
+    },
+    {
+      "name": "[25] Cottar Turn Tolonan",
+      "type": "text",
+      "text": {
+        "content": "<p>Turn is one of life’s enigmas. Short and undeniably plump, this lazy woman manages to steal other women’s husbands. She jokes that she only borrows them, returning them to their wives in a slightly worn state. Her latest conquest is Sidova Krandar (@UUID[JournalEntry.OEcadxNrg6tgJLOx.JournalEntryPage.LoDvlAEx9P3ApIcz]{[27] Cottar Garal Krandar}). Turn has had to defend herself against his wife’s physical assaults on more than one occasion but is undeterred. Aside from her unrepentant adultery, Turn is generous and helpful. Surprisingly, most people in the village like her.</p>",
+        "format": 1
+      },
+      "_id": "ncNh6zV9MGuWROuR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.ncNh6zV9MGuWROuR"
+    },
+    {
+      "name": "[26] Cottar Irdar Churil",
+      "type": "text",
+      "text": {
+        "content": "<p>The hard life of a cottar has beaten this massive man down. Irdar is always depressed and morose. He loudly complains that, though he works from dawn to dusk, he struggles to feed his six children. The truth is that he spends more time complaining than working. Because his high pitched voice is especially irritating and no one wants to work with him.</p>",
+        "format": 1
+      },
+      "_id": "sCK6IyW1MMQ0eKt8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.sCK6IyW1MMQ0eKt8"
+    },
+    {
+      "name": "[27] Cottar Garal Krandar",
+      "type": "text",
+      "text": {
+        "content": "<p>Garal has lost her husband. They were once in love but, with three small children and only three acres, Garal’s husband Sidova has found solace in the arms of another woman. Garal now tends the family’s fields alone but constantly rails at Sidova. Their fights have spilled into th streets more than once and the Beadle has threatened them with punishment.</p>",
+        "format": 1
+      },
+      "_id": "LoDvlAEx9P3ApIcz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.LoDvlAEx9P3ApIcz"
+    },
+    {
+      "name": "[28] Cottar Tarast Churil",
+      "type": "text",
+      "text": {
+        "content": "<p>Tarast is not who she thinks she is. She was actually found in the forest by the couple that she thinks are her parents. Her real parents had abandoned her, wrapped in a threadbare blanket, to die of exposure. The kind, childless, old couple raised her as their own and never told her the story of her origin.</p>\n<p>The small coin she wears on a bit of rawhide around her neck is all that links her to the life she never knew. She will never willingly relinquish the trinket but a knowledgeable scholar would quickly realize that the coin bears markings in ancient Jarind. It is from one of the kingdoms that existed before the Migration Wars; although no one can say what hoard this coin might have come from.</p>\n<p>Now a grown woman, she is a happy member of the community. Her husband Talepin is incredibly handsome and Tarast, who stands 70 inches tall and weighs twelve and a half stone (176 pounds), has made sure that Turn Tolonan (@UUID[JournalEntry.OEcadxNrg6tgJLOx.JournalEntryPage.ncNh6zV9MGuWROuR]{[25] Cottar Turn Tolonan}) understands the consequences of “borrowing” Talepin.</p>",
+        "format": 1
+      },
+      "_id": "mmrfaFv5aKo9RVPE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.mmrfaFv5aKo9RVPE"
+    },
+    {
+      "name": "[29] Half-Villein Thargen Asaka",
+      "type": "text",
+      "text": {
+        "content": "<p>Thargen is a happy woman. Her six children are finally getting old enough to start leaving the sprawling house. Her daughter will marry later in the spring and her husband is busy negotiating for a wife for their eldest son. Two down, four to go.</p>",
+        "format": 1
+      },
+      "_id": "FSAjTk7DfRWKZRaS",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.FSAjTk7DfRWKZRaS"
+    },
+    {
+      "name": "[30] Cottar Everard Tyun",
+      "type": "text",
+      "text": {
+        "content": "<p>Everard’s family is always near starvation. No one would ever guess that he has hoarded almost 200 pennies under his floor, the result of a lifetime of miserly scrimping and saving.</p>",
+        "format": 1
+      },
+      "_id": "4du7Kll5V3GEY1mp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.4du7Kll5V3GEY1mp"
+    },
+    {
+      "name": "[31] Miller Varan Etine",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Size:</strong> 3 <strong>Quality:</strong> ★★★ <strong>Prices:</strong> Avg</p>\n<p>Varan is an inventor and makes machines in his spare time. His wife operates a bakery at the mill as well. He is called the Scarecrow, since he is tall (73”) and skinny as a fence rail. His position in the village has enabled him to get to know all of the families in the area very well and he has become a sort of sounding board for their ideas and concerns.</p>",
+        "format": 1
+      },
+      "_id": "HbLx3YcBFx0NOnhx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.HbLx3YcBFx0NOnhx"
+    },
+    {
+      "name": "[32] Ranwyn Farm (Forester Royal Oldial Urdel)",
+      "type": "text",
+      "text": {
+        "content": "<p>Oldial is the second son of Dyrdal Urdel (@UUID[JournalEntry.OEcadxNrg6tgJLOx.JournalEntryPage.6vk6k2BBMkcAkmGq]{[11] Yeoman (Clerk) Dyrdal Urdel}). Oldial had been supporting his small family (wife and 2 children) as Sir Haradoc’s huntsman. When Sir Chimin decided to hire some foresters to help deal with the banditry in the area, Sir Haradoc selected him to guide for the Foresters.</p>\n<p>The position was more than mere flattery, as Oldial was also granted old @UUID[JournalEntry.R0WCvQbFCiSW3Ma2.JournalEntryPage.oIm7efTmxtL78Hho]{Ranwyn's Farm}.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "dIuDCW4aSDDvwFd0",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!OEcadxNrg6tgJLOx.dIuDCW4aSDDvwFd0"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204496046,
+    "modifiedTime": 1659204496046,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "OEcadxNrg6tgJLOx",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!OEcadxNrg6tgJLOx"
+}

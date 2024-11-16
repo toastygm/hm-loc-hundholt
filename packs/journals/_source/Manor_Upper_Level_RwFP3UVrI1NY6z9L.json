@@ -1,0 +1,185 @@
+{
+  "name": "Manor Upper Level",
+  "pages": [
+    {
+      "name": "[A2] Sentry Room",
+      "type": "text",
+      "text": {
+        "content": "<p>A sentry mans this small room at all times.</p>",
+        "format": 1
+      },
+      "_id": "DxuwlQ5uCIShYVue",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RwFP3UVrI1NY6z9L.DxuwlQ5uCIShYVue"
+    },
+    {
+      "name": "[C2] Domestics' Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>Dorena Kleve and Sorynë Krandar are the maids of the tower. Both women are incorrigible flirts and Liranal (@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.glky8UWxlva2FVEh]{[B2] Ostler's Workshop}) has frequently counseled them about lewdness and promiscuity. In his defense, he does this only when one of the wenches incites a fight between two of the wardens but his lectures haven’t deterred these women one bit.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "kChfTGDJCNaJCLMS",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RwFP3UVrI1NY6z9L.kChfTGDJCNaJCLMS"
+    },
+    {
+      "name": "[D6] Chamberlain",
+      "type": "text",
+      "text": {
+        "content": "<p>Marsi Loyril is a short, cheerful woman with a dynamic personality. Sir Haradoc admires her thriftiness and her loyalty. She is secretly enamored with Sir Haradoc and envious of the three “prisoners.” She is very popular in the village but does not allow strangers to pay for her drinks at the Broken Wheel.</p>",
+        "format": 1
+      },
+      "_id": "4LKQPg1eskyqUSiH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RwFP3UVrI1NY6z9L.4LKQPg1eskyqUSiH"
+    },
+    {
+      "name": "[D7] Prisoners' Quarters",
+      "type": "text",
+      "text": {
+        "content": "<p>When a freeborn person is convicted of a crime and fined, they may trade their service instead of paying cash. All three of these women have a vertical loom in their room and spend their days weaving cloth for the manor house.</p>\n<ol>\n<li>Pulon Banada is an attractive 17-year-old girl convicted of assault on a former boyfriend. She had been traveling with her mistress as a lady’s maid on a pilgrimage to Lethyl. When her party reached Getha, however, she caught her beloved with a tavern girl and beat him unconscious with a piece of firewood. She was immediately dismissed from service and, having no means of paying her fine and returning to her home in Olokand, she accepted the Bailiff’s offer of being a seamstress to earn the money for her fine. Her situation became clearer when she received a note from the Bailiff’s manservant instructing her to go to a certain clearing in the forest. When she arrived she found the Bailiff waiting for her. He offered her the choice of “earning time off for good behavior” or having her fine extended until her fingers fell off at the loom. She is not happy with the situation but views it as penance for being foolish enough to fall in love with a groom.</li>\n<li>Sardarn Kyfa is the young wife of a mercantyler from Ternau. They were making their first trading journey from Azadmere when her husband lost the money he was to pay the toll with in a game of dice. She felt that her husband agreed too readily when Sir Haradoc offered to keep Sardarn employed as a seamstress while her husband returned to Ternau and raised the money to pay the tolls he owed. Unbeknownst to anyone, Sardarn’s husband died of an injury last winter and will never return. She is the Lady Balsha’s favorite companion. Though Sardarn is uncomfortable with her situation, her life is not all that bad.</li>\n<li>Parga Jenatribë is from Thay. She is a member of the Lia-Kavir who is on the run from the Melderyni authorities. She was arrested trying to pick pockets at the Getha Fair almost two years ago but she is in no hurry to move on.</li>\n</ol>",
+        "format": 1
+      },
+      "_id": "HWLF1gER0Fk6RBZK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RwFP3UVrI1NY6z9L.HWLF1gER0Fk6RBZK"
+    },
+    {
+      "name": "[D8] Manor Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>The inhabitants of the manor house take their meals in this room.</p>",
+        "format": 1
+      },
+      "_id": "cQv0UjfmaYjkVUQ9",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RwFP3UVrI1NY6z9L.cQv0UjfmaYjkVUQ9"
+    },
+    {
+      "name": "[D9] Special Bailiff",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Yebrin Lournay is a special bailiff. He was warranted by the Shire Moot to capture the bandits that have been plaguing villages along the Hundred’s southern border. Since the bandits have cleverly hidden themselves in an area that lies between four jurisdictions (the Forest of Lonemar, the Chyle Hundred, Fethael Hundred, and Kirsta Forest), the Sheriffs of Balim and Nephshires agreed to place the matter in the hands of a special bailiff. This officer of the court is nominally answerable to the Inquisitor General but, in this case, follows the directives of the Sheriff of Neph as agreed with his counterpart in Balimshire, Sir Eris Karondal, and the forester of Lonemar, Earl Troda Dariune.</p>\n<p>Sir Yebrin was selected as special bailiff at the 719 Winter Court in Tashal. Now living in Hundholt, he is not in any hurry to charge off into the wilderness after the bandits and has told all and sundry that he is hiring mercenaries to help him flush out his quarry.</p>",
+        "format": 1
+      },
+      "_id": "vxIo7uwHvx74Qjfp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!RwFP3UVrI1NY6z9L.vxIo7uwHvx74Qjfp"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204496050,
+    "modifiedTime": 1659204496050,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "RwFP3UVrI1NY6z9L",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!RwFP3UVrI1NY6z9L"
+}

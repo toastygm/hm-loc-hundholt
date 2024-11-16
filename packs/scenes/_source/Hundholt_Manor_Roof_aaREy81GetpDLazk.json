@@ -1,0 +1,199 @@
+{
+  "_id": "aaREy81GetpDLazk",
+  "name": "Hundholt Manor Roof",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/aaREy81GetpDLazk-thumb.webp",
+  "width": 1200,
+  "height": 1200,
+  "padding": 0.25,
+  "initial": {},
+  "backgroundColor": "#acc4dc",
+  "grid": {
+    "size": 100,
+    "type": 1,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1658088779388,
+  "globalLight": true,
+  "globalLightThreshold": 0.7,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "_id": "jQH9roeLRXGtzi5Q",
+      "entryId": "Brk6PbBphM6zmqRo",
+      "x": 950,
+      "y": 850,
+      "iconSize": 50,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "Roboto",
+          "fontBold": true,
+          "fontItalics": false,
+          "strokeWidth": "20",
+          "iconText": "C4",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-hundholt/assets/journal-icon-numbers/7150e9a5_C4.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "t7Qk8DBTvcpbHrII",
+      "text": "[C4] Watch Post",
+      "global": false,
+      "_key": "!scenes.notes!aaREy81GetpDLazk.jQH9roeLRXGtzi5Q"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [
+    {
+      "_id": "enariaaj6lgppu0w",
+      "c": [
+        600,
+        600,
+        1200,
+        600
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 0,
+      "sight": 0,
+      "_key": "!scenes.walls!aaREy81GetpDLazk.enariaaj6lgppu0w"
+    },
+    {
+      "_id": "oyj2w6rbdvos324n",
+      "c": [
+        1200,
+        600,
+        1200,
+        1200
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 0,
+      "sight": 0,
+      "_key": "!scenes.walls!aaREy81GetpDLazk.oyj2w6rbdvos324n"
+    },
+    {
+      "_id": "8onlv55shh5yxtio",
+      "c": [
+        1200,
+        1200,
+        600,
+        1200
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 0,
+      "sight": 0,
+      "_key": "!scenes.walls!aaREy81GetpDLazk.8onlv55shh5yxtio"
+    },
+    {
+      "_id": "50cilkhm7exexfd3",
+      "c": [
+        600,
+        1200,
+        600,
+        600
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 0,
+      "sight": 0,
+      "_key": "!scenes.walls!aaREy81GetpDLazk.50cilkhm7exexfd3"
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "flags": {
+    "core": {
+      "sourceId": "Compendium.hm-loc-hundholt.scenes.aaREy81GetpDLazk"
+    },
+    "hm-loc-hundholt": {
+      "imported": "1.0.2"
+    },
+    "scene-packer": {
+      "source-module": "hm-loc-hundholt",
+      "packed-with-version": "2.3.13",
+      "sourceId": "Scene.VPAuuhZ9jj07fglW",
+      "hash": "b89367847b07c038145ae94261d3002846b8cf95"
+    },
+    "cf": {
+      "id": "temp_yzazwcmmxm",
+      "path": "Hundholt#/CF_SEP/Hundholt Manor",
+      "color": "#000000"
+    }
+  },
+  "background": {
+    "src": "modules/hm-loc-hundholt/assets/scenes/hundholt-manor-roof.webp",
+    "offsetX": 0,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204519313,
+    "modifiedTime": 1659204519313,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!aaREy81GetpDLazk"
+}

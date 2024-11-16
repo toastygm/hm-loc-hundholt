@@ -1,0 +1,49 @@
+{
+  "name": "Hundholt Manor",
+  "pages": [
+    {
+      "name": "Hundholt Manor",
+      "type": "text",
+      "text": {
+        "content": "<p>This stone three-story tower is home to the Hundred Moot and the Bailiff of the Hundred, Sir Haradoc. Additions and renovations throughout the years have given the manor house a distinctly rambling look.</p>\n<p>The small open area below the manor and across the road from the Broken Wheel (@UUID[JournalEntry.OEcadxNrg6tgJLOx.JournalEntryPage.X14Bu789qGBPASYE]{[14] The Broken Wheel Inn}) is called Justice Corner. There is a stout flogging post and stocks that can accommodate up to four criminals. This area is where the corporal punishments meted out by the Hall Moot and the Hundred Moot are performed. Stocks hold those convicted of being quarrelsome or of public fighting. Gossips and rumor-spreaders might find themselves chained to the pillory wearing a heavy iron mask for a week or more.</p>\n<p>The provosts (Manor Ground Floor, @UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.GAGJwNo7FdlUsDGM]{[D4] Provosts}) are responsible for administering corporal punishments such as flogging, branding, or amputation. Offenders have their wrists tied to a metal ring in the flogging post and their shirts removed before the punishment is administered. Hangings are performed on gallows constructed especially for the event.</p>\n<h3>Ground Floor</h3>\n<ul>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.2JbPbVZivauzRWCM]{[A1] Manor Gate}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.W7sYj3cHsp6Vfn6M]{[B1] Stables}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.glky8UWxlva2FVEh]{[B2] Ostler's Workshop}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.3TlEPYcSIHVYE6go]{[C1] Wardens' Common Room}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.PBbtL99p0LTIFT08]{[D1] Courtroom}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.5lGm6dLl3yYsX8PF]{[D2] Office of the Clerk of the Hundred}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.d8xttwvs0nTXBPWR]{[D3] Senior Provost}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.GAGJwNo7FdlUsDGM]{[D4] Provosts}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.zh1WcbbNFrrpSPPu]{[D5] Punishment Yard}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.B5HBvV9UOytKfuLH]{[E1] Kitchen}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.hv7RgheksN0MajLR]{[E2] Vegetable Garden}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.hHZewHQ07P9czboG]{[E3] Privy Pit}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.lI5ipw6LJ4JVT7Gt]{[F] Brew House}</li>\n<li>@UUID[JournalEntry.Z5QIrqhgRjVoN26v.JournalEntryPage.7EeyAX6Ut8MLABg0]{[G1] Tithe Barn}</li>\n</ul>\n<h3>Upper Floor</h3>\n<ul>\n<li>@UUID[JournalEntry.RwFP3UVrI1NY6z9L.JournalEntryPage.DxuwlQ5uCIShYVue]{[A2] Sentry Room}</li>\n<li>@UUID[JournalEntry.RwFP3UVrI1NY6z9L.JournalEntryPage.kChfTGDJCNaJCLMS]{[C2] Domestics' Quarters}</li>\n<li>@UUID[JournalEntry.RwFP3UVrI1NY6z9L.JournalEntryPage.4LKQPg1eskyqUSiH]{[D6] Chamberlain}</li>\n<li>@UUID[JournalEntry.RwFP3UVrI1NY6z9L.JournalEntryPage.HWLF1gER0Fk6RBZK]{[D7] Prisoners' Quarters}</li>\n<li>@UUID[JournalEntry.RwFP3UVrI1NY6z9L.JournalEntryPage.cQv0UjfmaYjkVUQ9]{[D8] Manor Hall}</li>\n<li>@UUID[JournalEntry.RwFP3UVrI1NY6z9L.JournalEntryPage.vxIo7uwHvx74Qjfp]{[D9] Special Bailiff}</li>\n</ul>\n<h3>Top Floor</h3>\n<ul>\n<li>@UUID[JournalEntry.7FzRQ0bC1l9PpvAz.JournalEntryPage.Re5vUdJVHZlkTnnh]{[A3] Watch Post}</li>\n<li>@UUID[JournalEntry.7FzRQ0bC1l9PpvAz.JournalEntryPage.GFUDQUoKGk0D1r1d]{[C3] Bailiff's Chambers}</li>\n</ul>\n<h3>Roof</h3>\n<ul>\n<li>@UUID[JournalEntry.Brk6PbBphM6zmqRo.JournalEntryPage.t7Qk8DBTvcpbHrII]{[C4] Watch Post}</li>\n</ul>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "OYaZ9eEc0jlr5k7q",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!SHllfy4a6dIAzjAG.OYaZ9eEc0jlr5k7q"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204496051,
+    "modifiedTime": 1659204496051,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "SHllfy4a6dIAzjAG",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!SHllfy4a6dIAzjAG"
+}

@@ -1,0 +1,403 @@
+{
+  "name": "Manor Ground Floor",
+  "pages": [
+    {
+      "name": "[A1] Manor Gate",
+      "type": "text",
+      "text": {
+        "content": "<p>The manor gate is secured with a stout pair of oaken doors.</p>",
+        "format": 1
+      },
+      "_id": "2JbPbVZivauzRWCM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.2JbPbVZivauzRWCM"
+    },
+    {
+      "name": "[B1] Stables",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Haradoc keeps a warhorse and two palfreys for his use. His prize, however, is his hunter, a magnificent animal often used for stud.</p>",
+        "format": 1
+      },
+      "_id": "W7sYj3cHsp6Vfn6M",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.W7sYj3cHsp6Vfn6M"
+    },
+    {
+      "name": "[B2] Ostler's Workshop",
+      "type": "text",
+      "text": {
+        "content": "<p>Because there is no ostler in Hundholt, Erebel Sermel [Getha location #34] has an arrangement to send a journeyman from Getha once a week to care for the Bailiff’s animals.</p>",
+        "format": 1
+      },
+      "_id": "glky8UWxlva2FVEh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.glky8UWxlva2FVEh"
+    },
+    {
+      "name": "[C1] Wardens' Common Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Haradoc maintains a dozen wardens to assist him in his duties. These men are armed as Light Foot but ride mules as they patrol the highways and byways of the Hundred.</p>",
+        "format": 1
+      },
+      "_id": "3TlEPYcSIHVYE6go",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.3TlEPYcSIHVYE6go"
+    },
+    {
+      "name": "[D1] Courtroom",
+      "type": "text",
+      "text": {
+        "content": "<p>This is the only publicly accessible room in the manor house. The Hundred Moot is held in this room every three weeks. Sir Haradoc sits in a large, engraved chair atop a dais. The clerk of the Hundred sits to the Bailiff’s left taking notes. The accused stands in the area to the Bailiff’s right. If the case requires a jury, they are seated in two rows of benches to Sir Haradoc’s left. The audience, usually restricted to those parties directly involved with the case at hand, is allowed to sit in the benches in front of the dais.</p>",
+        "format": 1
+      },
+      "_id": "PBbtL99p0LTIFT08",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.PBbtL99p0LTIFT08"
+    },
+    {
+      "name": "[D2] Office of the Clerk of the Hundred",
+      "type": "text",
+      "text": {
+        "content": "<p>The records of the Hundred are kept in this room. Drydal Urdel (@UUID[JournalEntry.OEcadxNrg6tgJLOx.JournalEntryPage.6vk6k2BBMkcAkmGq]{[11] Yeoman (Clerk) Dyrdal Urdel}) has a small desk here to do work for the court.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "5lGm6dLl3yYsX8PF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.5lGm6dLl3yYsX8PF"
+    },
+    {
+      "name": "[D3] Senior Provost",
+      "type": "text",
+      "text": {
+        "content": "<p>The Senior Provost, Liranal Urdel, lives here. Although he is a distant relation of the Clerk, Liranal swears that he’ll “never turn into a pen pusher” like Dyrdal.</p>",
+        "format": 1
+      },
+      "_id": "d8xttwvs0nTXBPWR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.d8xttwvs0nTXBPWR"
+    },
+    {
+      "name": "[D4] Provosts",
+      "type": "text",
+      "text": {
+        "content": "<p>These men supervise the wardens in their day-to-day activities. The two Provosts, Harvis Urdel and Lemwyn Berma, live in this room. These two Urdels are second cousins and are alike in almost everyway. Liranal is six feet tall; Harvis is 6’ 2”. Both are heavy set and have been good soldiers. They are proselytizing Laranians, often quoting scripture and invoking the names of the saints at the top of their voices as they perform their duties. Lemwyn, meanwhile, is only a casual churchgoer and volunteers for guard duty to avoid going to Soratir with his overly pious roommates.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "GAGJwNo7FdlUsDGM",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.GAGJwNo7FdlUsDGM"
+    },
+    {
+      "name": "[D5] Punishment Yard",
+      "type": "text",
+      "text": {
+        "content": "<p>Prisoners awaiting trial or serving out a sentence of confinement are held in the rear courtyard. Lesser criminals are held in the quarters (@UUID[JournalEntry.RwFP3UVrI1NY6z9L.JournalEntryPage.HWLF1gER0Fk6RBZK]{[D7] Prisoners' Quarters}), usually only until their families arrive to pay their fine. Violent or repeat offenders are placed in the subterranean cells that are out in the yard. Prisoners are lowered into the cell by rope. They are fed by one of the guards lowering a bucket through the grate. Since these grates are not covered, the cells are very uncomfortable when it snows or rains.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "zh1WcbbNFrrpSPPu",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.zh1WcbbNFrrpSPPu"
+    },
+    {
+      "name": "[E1] Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>This large room is the province of Latin Tyun and she rules it with an iron fist. She wields a large wooden stirring spoon with unflinching accuracy, aiming for the hands and heads of any who displease her.</p>",
+        "format": 1
+      },
+      "_id": "B5HBvV9UOytKfuLH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.B5HBvV9UOytKfuLH"
+    },
+    {
+      "name": "[E2] Vegetable Garden",
+      "type": "text",
+      "text": {
+        "content": "<p> </p>",
+        "format": 1
+      },
+      "_id": "hv7RgheksN0MajLR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.hv7RgheksN0MajLR"
+    },
+    {
+      "name": "[E3] Privy Pit",
+      "type": "text",
+      "text": {
+        "content": "<p> </p>",
+        "format": 1
+      },
+      "_id": "hHZewHQ07P9czboG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.hHZewHQ07P9czboG"
+    },
+    {
+      "name": "[F] Brew House",
+      "type": "text",
+      "text": {
+        "content": "<p>In addition to her cooking, Latin Tyun brews ale for the manor house and the Broken Wheel Inn. The guards often kid her that her brewing is better than her cooking, a joke that would be funny if it weren’t true.</p>",
+        "format": 1
+      },
+      "_id": "lI5ipw6LJ4JVT7Gt",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.lI5ipw6LJ4JVT7Gt"
+    },
+    {
+      "name": "[G1] Tithe Barn",
+      "type": "text",
+      "text": {
+        "content": "<p>Sir Haradoc stores the taxes that are paid in kind in this barn before sending them to Bidow.</p>",
+        "format": 1
+      },
+      "_id": "7EeyAX6Ut8MLABg0",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!Z5QIrqhgRjVoN26v.7EeyAX6Ut8MLABg0"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204496053,
+    "modifiedTime": 1659204496053,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "Z5QIrqhgRjVoN26v",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!Z5QIrqhgRjVoN26v"
+}

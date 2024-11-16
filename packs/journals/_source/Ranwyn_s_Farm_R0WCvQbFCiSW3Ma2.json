@@ -1,0 +1,294 @@
+{
+  "name": "Ranwyn's Farm",
+  "pages": [
+    {
+      "name": "Ranwyn's Farm",
+      "type": "text",
+      "text": {
+        "content": "<h1>Ranwyn's Farm</h1>\n<p>As a response to the recent bandit attacks, Baron Indama has engaged the services of several young knights to serve as his Foresters. The road that passes the farm leads to the hamlet of Wuven. The cottars that work the farm’s land come from there and are all Tolonans.</p>\n<p>The farm lay fallow for about year after a raid killed the old man’s family and ran off his livestock. Oldial has worked hard to rebuild the farm and Sir Haradoc has offered tax relief for providing the Foresters food and lodging. When this subsidy is combined with the provisions that the knights buy and the servants that they employ, Oldial’s family lives quite comfortably.</p>\n<p>Currently, the farm is about three-quarters rebuilt. The old stables are still a shell, there a large hole in the barn’s roof, and the back fence cannot keep the chickens, pigs, and goats inside the compound much less keep anything out. The farmhouse is snug and dry, however, and Mistress Forilëa is usually in the kitchen with some hot, filling food to serve. The farmhouse and barn have thick stone walls and thatched roofs.</p>\n<p>The farmyard is mud for most of the year. Dung heaps and agricultural waste stand piled in the corners of the barn and the yard. Oldial’s family has worked hard to clean up the farmstead but litter from its previous tenants and the attack still clutters the place.</p>\n<p>With the addition of the five young knights, the atmosphere at the farm has become one of post-adolescent squalor despite the mistress’ best attempts to maintain a clean and orderly house.</p>\n<h3>Ground Floor</h3>\n<ul>\n<li>@UUID[JournalEntry.R0WCvQbFCiSW3Ma2.JournalEntryPage.fApeqVpVzEWrNKJl]{[R1] Barn}</li>\n<li>@UUID[JournalEntry.R0WCvQbFCiSW3Ma2.JournalEntryPage.BjgdkK227iXR3UjT]{[R2] Old Stables}</li>\n<li>@UUID[JournalEntry.R0WCvQbFCiSW3Ma2.JournalEntryPage.SsFKhFcx0dCbcf0M]{[R3] Livestock Pens}</li>\n<li>@UUID[JournalEntry.R0WCvQbFCiSW3Ma2.JournalEntryPage.B9rdDCLU4wpuQJzr]{[R4] Kitchen}</li>\n<li>@UUID[JournalEntry.R0WCvQbFCiSW3Ma2.JournalEntryPage.sX73aI9k97rDuEvK]{[R5] Hall and Main Room}</li>\n<li>@UUID[JournalEntry.R0WCvQbFCiSW3Ma2.JournalEntryPage.3pN6GzMeh2shdHfo]{[R6] Oldial's Rooms}</li>\n<li>@UUID[JournalEntry.R0WCvQbFCiSW3Ma2.JournalEntryPage.fUwsuphWkQNRn3kD]{[R7] Children's Room}</li>\n<li>@UUID[JournalEntry.R0WCvQbFCiSW3Ma2.JournalEntryPage.I6N0JIpXbjN19s73]{[R8] Servant's Room}</li>\n</ul>\n<h3>Upper Floor</h3>\n<ul>\n<li>@UUID[JournalEntry.R0WCvQbFCiSW3Ma2.JournalEntryPage.WHC95fHgfZuXK9V1]{[R9] Knight-Foresters' Room}</li>\n</ul>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "oIm7efTmxtL78Hho",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!R0WCvQbFCiSW3Ma2.oIm7efTmxtL78Hho"
+    },
+    {
+      "name": "[R1] Barn",
+      "type": "text",
+      "text": {
+        "content": "<p>This is the old barn. There is a large hole in the roof in the northwest side of the barn.</p>",
+        "format": 1
+      },
+      "_id": "fApeqVpVzEWrNKJl",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!R0WCvQbFCiSW3Ma2.fApeqVpVzEWrNKJl"
+    },
+    {
+      "name": "[R2] Old Stables",
+      "type": "text",
+      "text": {
+        "content": "<p>This building is still a shell from the damage taken during the raid.</p>",
+        "format": 1
+      },
+      "_id": "BjgdkK227iXR3UjT",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!R0WCvQbFCiSW3Ma2.BjgdkK227iXR3UjT"
+    },
+    {
+      "name": "[R3] Livestock Pens",
+      "type": "text",
+      "text": {
+        "content": "<p>Chickens, pigs, and goats are kept in the livestock pens here. The back fence is in bad shape, and can't keep the animals inside the compound much less keep anything out.</p>",
+        "format": 1
+      },
+      "_id": "SsFKhFcx0dCbcf0M",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!R0WCvQbFCiSW3Ma2.SsFKhFcx0dCbcf0M"
+    },
+    {
+      "name": "[R4] Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p> </p>",
+        "format": 1
+      },
+      "_id": "B9rdDCLU4wpuQJzr",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!R0WCvQbFCiSW3Ma2.B9rdDCLU4wpuQJzr"
+    },
+    {
+      "name": "[R5] Hall and Main Room",
+      "type": "text",
+      "text": {
+        "content": "<p>This is the main gathering area of the farm. The entire household gathers here for meals and again in the evenings to talk and sing while the mistress knits or spins.</p>",
+        "format": 1
+      },
+      "_id": "sX73aI9k97rDuEvK",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!R0WCvQbFCiSW3Ma2.sX73aI9k97rDuEvK"
+    },
+    {
+      "name": "[R6] Oldial's Rooms",
+      "type": "text",
+      "text": {
+        "content": "<p>Oldial and Forilëa share this room.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "3pN6GzMeh2shdHfo",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!R0WCvQbFCiSW3Ma2.3pN6GzMeh2shdHfo"
+    },
+    {
+      "name": "[R7] Children's Room",
+      "type": "text",
+      "text": {
+        "content": "<p>Oldial’s children stay in this room. Oldial’s son Haral (age 14) cares for the farm animals while his daughter, Alyce (age 10), helps her mother in the house. Both children do domestic chores for the knights for tips.</p>",
+        "format": 1
+      },
+      "_id": "fUwsuphWkQNRn3kD",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!R0WCvQbFCiSW3Ma2.fUwsuphWkQNRn3kD"
+    },
+    {
+      "name": "[R8] Servant's Room",
+      "type": "text",
+      "text": {
+        "content": "<p>The knights’ communal servant, Patsy, sleeps on a cot in this room. He is officially Sir Ervaen’s servant but, as the other knights contribute to his upkeep, he serves them all as (near) equals. Their groom Erwyn, sleeps here as well. Sir Ervaen also hired him but he cares for all of the horses in the farmstead.</p>",
+        "format": 1
+      },
+      "_id": "I6N0JIpXbjN19s73",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!R0WCvQbFCiSW3Ma2.I6N0JIpXbjN19s73"
+    },
+    {
+      "name": "[R9] Knight-Foresters' Room",
+      "type": "text",
+      "text": {
+        "content": "<p>The Knight-Foresters are in the service of the Sheriff of Neph. The four young knights are:</p>\n<ul>\n<li>@UUID[JournalEntry.bzchQj9ibtfhvanq.JournalEntryPage.6da2PuccaMjPJtYL]{Ervaen Banadar}</li>\n<li>@UUID[JournalEntry.bzchQj9ibtfhvanq.JournalEntryPage.63wWn1Y5YJWLdIVu]{Kevan Losteriel}</li>\n<li>@UUID[JournalEntry.bzchQj9ibtfhvanq.JournalEntryPage.lD0wDmCe0M9F8zVB]{Arlin Cybrela}</li>\n<li>@UUID[JournalEntry.bzchQj9ibtfhvanq.JournalEntryPage.ig2fQubHkf35E9Yq]{Milis Arlain}</li>\n</ul>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "WHC95fHgfZuXK9V1",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!R0WCvQbFCiSW3Ma2.WHC95fHgfZuXK9V1"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659204496049,
+    "modifiedTime": 1659204496049,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "R0WCvQbFCiSW3Ma2",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!R0WCvQbFCiSW3Ma2"
+}
